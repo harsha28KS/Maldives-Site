@@ -1,0 +1,104 @@
+.banner {
+  height: 600px;
+  background-color: gray;
+  background-image: url("https://www.cashadvance6online.com/data/archive/img/2801146017.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navigation {
+  height: 80px !important;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 22px;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-size: 40px;
+  padding-left: 10px;
+}
+
+.banner-content {
+  !height: 250px;
+  background-color: rgba(255, 255, 255, 0.6);
+  display: flex;
+  align-items: center;
+}
+
+.banner-title {
+  font-size: 50px;
+}
+
+.padd {
+  padding: 30px;
+}
+
+.destination {
+}
+
+.title {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.my-card {
+  width: 350px !important;
+  margin-bottom: 30px;
+}
+
+.card-img-top {
+  height: 200px !important;
+}
+
+.banner-ad {
+  height: 460px;
+  background: url("https://english.cdn.zeenews.com/sites/default/files/2016/08/10/517830-maldives124.jpg");
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-ad-content {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  !height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-ad-heading {
+  color: white;
+  font-size: 50px;
+}
+
+.packages {
+  padding: 30px 0;
+}
+
+.p-card {
+  width: 370px;
+  margin-bottom: 50px;
+}
+
+.packages-bg {
+  background-color: lightblue;
+}
+
+.map {
+  width: 100%;
+  height: 400px;
+}
+
+@media (max-width: 500px) {
+  .banner-ad {
+    height: 320px;
+  }
+}
